@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">FireProject</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scanner_button">Scanner</string>
+    <string name="consumption_button">Zużycie</string>
+    <string name="all">Wszystko</string>
+    <string name="installation">Instalacja</string>
+    <string name="to_add">GOTOWE DO INSTALACJI</string>
+    <string name="add_device_choose_device_fragment">Dodaj Sensor i Connect \n aby móc korzystać z aplikacji</string>
+    <string name="addition">Instalacja</string>
+    <string name="add">DODAJ</string>
+    <string name="added">ZAINSTALOWANE</string>
+
+    <string name="scanning">Wyszukiwanie</string>
+    <string name="scan_info_part_1">Podłącz urządzenia do zasilania.\n Aplikacja wykryje je automatyczne.</string>
+    <string name="scan_info_part_2">  Włączone urządzenia pojawią się na ekranie.</string>
+    <string name="device_addition">Trwa dodawanie urządzenia</string>
+    <string name="device_addition_info">Poczekaj, aż dodawanie urządzenia się\nzakończy. To potrwa tylko chwilę.</string>
+    <string name="scan_error_info">Aplikacja nie wykryła żadnego\n urządzenia w pobliżu.\nPodłącz urządzenia do źródła\nzasilania i podejdź bliżej by\nzobaczyć je w aplikacji.</string>
+
+    <string name="retry">Ponów</string>
+
+    <string name="choose_wifi_fragment">Wybierz sieć WiFi z której ma \n korzystać Connect</string>
+    <string name="choose_wifi">WYBIERZ SIEĆ</string>
+
+    <string name="log_in_text">Zaloguj się do swojego konta</string>
+    <string name="log_in_button">Zaloguj</string>
+    <string name="password">HASŁO</string>
+    <string name="login">LOGIN</string>
+    <string name="error_login_text">Niepoprawny login lub hasło</string>
+    <string name="connect_to_network">To potrwa tylko chwilę</string>
+    <string name="connecting_with_network">Łączenie z siecią</string>
+    <string name="connect_to_network_error">Spróbuj ponownie lub zmień sieć</string>
+    <string name="connecting_with_network_error"><![CDATA[Nie udało się połączyć z siecią]]></string>
+    <string name="adding_device_error">Nie udało się dodać</string>
+    <string name="add_device_error">Pozostań w zasięgu urządzenia \n To potrwa tylko chwilę</string>
+    <string name="insert_password">Wprowadź hasło dla sieci </string>
+    <string name="complete">Gotowe</string>
+    <string name="wifi_password_info">Wpisz hasło dla sieci \n %s</string>
+    <string name="info_error">Niepoprawne hasło do sieci</string>
+    <string name="connect_setup_result">Gotowe! \n Możesz kontynuować dodawanie urządzeń \n lub zacząć korzystać z aplikacji</string>
+    <string name="logging">Logowanie</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_profile_photo">https://avatars1.githubusercontent.com/u/6947495?v=3&amp;s=460</string>
+
+
+    <string name="one">ONE</string>
+    <string name="eight">EIGHT</string>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
+    <string name="nine">NINE</string>
+    <string name="seven">SEVEN</string>
+    <string name="six">SIX</string>
+    <string name="ten">TEN</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+    <string name="title_activity_scrollable_tabs">Scrollable Tabs</string>
+    <string name="title_activity_simple_tabs">Simple Tabs</string>
+    <string name="btn_simple_tabs">Simple Tabs</string>
+    <string name="btn_scrollable_tabs">Scrollable Tabs</string>
+    <string name="btn_icon_text_tabs">Icon &amp; Text Tabs</string>
+    <string name="btn_icon_tabs">Only Icon Tabs</string>
+    <string name="btn_pinned_top_tabs">Pinned To Top Tabs</string>
+    <string name="title_activity_icon_text_tabs">Icon and Text Tabs</string>
+    <string name="title_activity_icon_tabs">Icon Tabs</string>
+    <string name="btn_custom_icon_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_custom_view_icon_text_tabs">Custom View Icon &amp; Text</string>
+    <string name="title_activity_pinned_top_tabs">Pin Top Tabs</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>
